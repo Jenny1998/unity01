@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 818a231d2ae8ae24bab33cd6ea89f848
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - coin: {fileID: 7767734138499533285, guid: 571ec3ae1ba803e43aa5f7f5ef43ec26, type: 3}
+  - grass: {fileID: 5261305445392813545, guid: 757371634db84b34297f62f9c1596f5a, type: 3}
+  - timeObj: {fileID: 3601596562859297701, guid: d6b7b3d86fc5f9d4ba207ccc088076b9, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
